@@ -1,0 +1,20 @@
+{
+  "format": 1,
+  "id": "app.valenced.meower",
+  "name": "meower",
+  "description": "Mrrrp Mrowww meowww",
+  "author": "kilkproduct",
+  "icon": "SendMessageIcon",
+  "version": "1.0.0",
+  "dependencies": {
+    "valenced.api": {
+      "version": ">=1 <2"
+    },
+    "discord": {
+      "version": "*"
+    }
+  },
+  "dist": {
+    "script": "js/index.ts"
+  }
+}
